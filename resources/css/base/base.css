@@ -1,0 +1,36 @@
+/* web font-family */
+/* @import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap'); */
+@tailwind base;
+
+*,
+*::before,
+*::after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    /* font-family: 'Redressed', cursive; */
+    @apply text-base font-primary;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+#pre-loader {
+    @apply fixed w-full h-full bg-white;
+    z-index: 999999999999999999999999;
+}
+
+.animated-logo {
+    @apply absolute transform -translate-x-1/2 -translate-y-1/2 left-1/2 top-1/2;
+
+    img {
+        @apply w-60;
+    }
+}
