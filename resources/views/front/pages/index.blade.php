@@ -149,7 +149,7 @@
                         Автокраны
                     </li>
                     <li data-target="mainres3" class="w-full py-2 text-center main-image-responsive-select-text">
-                        Автобетононасоса
+                        Автобетононасосы
                     </li>
                     <li data-target="mainres4" class="w-full py-2 text-center main-image-responsive-select-text mb-md">
                         Катки
@@ -238,7 +238,7 @@
                             </div>
                             <div id="mainImgWrapper3" class="flex items-center main-image__btn active main-btn-3">
                                 <p id="mainImageBtn3" class="cursor-pointer main-image-text text-md">
-                                    Автобетононасоса
+                                    Автобетононасосы
                                 </p>
                                 <span id="mainImgCircle3"
                                     class="w-2 h-2 rounded-full cursor-pointer main-image__btn-circle ml-md"></span>
@@ -284,16 +284,13 @@
             <ul class="flex items-center justify-center company-list">
                 <li class="w-1/3 text-sm text-gray-900 company-item">
                     <p class="leading-6 company-text">
-                        <span class="ml-10">Наша</span> компания "Barg" основана в 2017
-                        году. Мы занимаемся услугами аренды и продажи спецтехники по всему
-                        Узбекистану. Наша компания представляет модели от надежных
-                        зарубежных производителей, что гарантирует качество техники.
-                        Арендуя и покупая спецтехнику у нас, вы можете не сомневаться в ее
-                        надежности и эффективности. Наша компания ценить своих клиентов,
-                        поэтому мы следуем разумной ценовой политике. Наша стратегия
-                        обеспечивает возможность для налаживания долгосрочного
-                        сотрудничества, пользу от которого получат все заинтересованные
-                        стороны.
+                       <span class="ml-10"> Компания</span> "Barg" основана в 2017 году. Мы занимаемся услугами аренды и продажи спецтехники по
+                        всему Узбекистану. Наша компания представляет модели от надежных зарубежных производителей, что
+                        гарантирует качество техники. Арендуя и покупая спецтехнику у нас, вы можете не сомневаться в ее
+                        надежности и эффективности. Мы ценим своих клиентов, поэтому следуем разумной ценовой политике.
+                        Наша стратегия обеспечивает возможность для налаживания долгосрочного сотрудничества, пользу от
+                        которого получат все заинтересованные стороны.
+
                     </p>
                     <p class="company-text company-text-second">
                         <span class="ml-10">Аренда</span> строительной техники не требует
@@ -1972,7 +1969,7 @@
                     </div>
                     <div class="flex items-center catalogue-image__btn catalogue-btn-1">
                         <p data-target="peregruz" class="cursor-pointer catalogue-image-text">
-                            Автобетононасос
+                            Автобетононасосы
                         </p>
                         <span id="peregruzSircle"
                             class="w-3 h-3 rounded-full cursor-pointer catalogue-image__btn-circle ml-md"></span>
@@ -2250,7 +2247,7 @@
                         <button type="submit" id="contactButton"
                             class="inline-block px-5 py-2 mx-auto rounded-sm text-md contact-form-link">Заказать</button>
                         <p class="text-sm text-center text-gray-400 mt-lg">
-                            Все услуги лицензированны
+                            Все услуги лицензированы
                         </p>
                     </div>
 
@@ -2348,7 +2345,7 @@
                     <label for="">
                         <input
                             class="px-3 py-1 font-normal text-gray-700 placeholder-gray-400 border-0 rounded-sm outline-none bg-gray-50 mx-sm"
-                            type="tel" placeholder="Тел" id="contactModalPhone" />
+                            type="tel" placeholder="Телефон" id="contactModalPhone" />
                     </label>
 
                     <button id="modalcontactBtn" class="inline-block px-4 py-1 rounded-sm contact-form-link"
