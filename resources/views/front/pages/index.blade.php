@@ -722,7 +722,7 @@
                 <ul id="cbuldozer"
                     class="grid grid-cols-2 gap-12 pt-20 justify-items-center sm:grid-cols-3 catalogue-list xl:gap-x-20">
                     <li class="flex flex-col items-center justify-center catalogue-item">
-                        <img class="w-64 catalogue-img" src="./assets/images/excavator/Без-имени-28.png" alt="Photo" />
+                        <img class="w-64 catalogue-img" src="./assets/images/excavator/noname.png" alt="Photo" />
                         <p class="text-lg catalogue-text">XCMG Модель XE225DN</p>
                         <div class="p-8 catalogue-item-content">
                             <h1 class="text-lg font-semibold text-center catalogue-item-content-title">
