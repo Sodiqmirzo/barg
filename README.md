@@ -1,1 +1,1 @@
-## https://barging.uz/
+## https://barging.uz
